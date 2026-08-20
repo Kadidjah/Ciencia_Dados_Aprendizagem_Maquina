@@ -13,8 +13,8 @@
 
 | Campo             | Resposta |
 | ----------------- | -------- |
-| **Turma:**        |          |
-| **Data:**         |          |
+| **Turma:**        | Sistemas de Informação         |
+| **Data:**         |  19/08        |
 | **Equipe:**       |          |
 | **Integrante 1:** |          |
 | **Integrante 2:** |          |
