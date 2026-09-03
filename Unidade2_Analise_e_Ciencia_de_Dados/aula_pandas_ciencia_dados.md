@@ -53,7 +53,7 @@ Ao final, os estudantes deverão ser capazes de:
 
 **Tempo ativo:** 50 minutos (prática orientada, desafio e exit ticket), equivalente a 55,6% da aula.
 
-## 4. Roteiro de fala do professor
+## 4. Roteiro 
 
 ### 0–10 min — Abertura e retomada
 
@@ -333,7 +333,7 @@ Escreva uma única expressão Pandas que selecione os chamados reabertos e mostr
 | sobrescrever sem conferir | alterar coluna e seguir | valide com `head()`, `info()` ou contagens |
 | ignorar ausências/outliers | calcular e aceitar a saída | inspecione completude, distribuição e contexto |
 
-## 11. Gabarito e soluções para o professor
+## 11. Gabarito e soluções 
 
 ### Exercício 1
 
